@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.alert {
+  color: red;
+}
+
+.todo-list li {
+  list-style-type: none;
+  color: dodgerblue;
+}
+
+.done {
+  color: green;
+  text-decoration: line-through;
+}
